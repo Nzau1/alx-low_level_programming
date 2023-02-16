@@ -6,5 +6,5 @@
 int main (void)
 {
 	puts ("programming is like buildingg a multiligual puzzle\n")
-		return 0
+		return 0;
 }
