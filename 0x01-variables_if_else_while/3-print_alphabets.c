@@ -6,7 +6,7 @@
  * Main - this program prints the alphabets in lowercase and in uppercase
  * Return:0 (success)
  */
-int main(void)
+int Main(void)
 {
 	char lc;
 
