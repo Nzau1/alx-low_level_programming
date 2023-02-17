@@ -9,6 +9,8 @@
 int main(void)
 {
 	int n;
+	int RAND;
+	int MAX;
 
 	srand(time(0));
 	n = rand() - RAND = MAX / 2;
