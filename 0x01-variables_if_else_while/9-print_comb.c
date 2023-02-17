@@ -9,12 +9,12 @@ int main(void)
 {
 	int m;
 
-	for (m = 48; m < 58; m++)
+	for (m = 0; m < 10; m++)
 
 	{
-		putchar(m);
+		putchar(m + '0');
 	}
-		if (m != 57)
+		if (m < 9)
 		{
 			putchar(',');
 			putchar(' ');
