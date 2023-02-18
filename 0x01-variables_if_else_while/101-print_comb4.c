@@ -30,13 +30,13 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			c++
+			c++;
 
 		}
-		d++
+		d++;
 
 		}
-		e++
+		e++;
 	}
 
 	putchar ('\n');
